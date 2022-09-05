@@ -1,0 +1,1 @@
+{"uuid":"a40d1cb7-135b-4f20-a3fa-33802224af49","name":"TestComp7Days","children":["6c182e25-ae4f-485a-ad65-c140900abb0f"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662028998864,"stop":1662029001826}],"afters":[],"start":1662028998836,"stop":1662029002019}

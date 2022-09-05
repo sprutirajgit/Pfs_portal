@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T14:52:06Z" name="Default suite" finished-at="2022-09-05T14:54:00Z" duration-ms="114051">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T14:52:06Z" name="Default test" finished-at="2022-09-05T14:54:00Z" duration-ms="114051">
+      <class name="PortalDev.Portalken">
+        <test-method is-config="true" signature="initDriver()[pri:0, instance:PortalDev.Portalken@10567255]" started-at="2022-09-05T14:52:03Z" name="initDriver" finished-at="2022-09-05T14:52:06Z" duration-ms="3042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="TestVerify()[pri:0, instance:PortalDev.Portalken@10567255]" started-at="2022-09-05T14:52:06Z" name="TestVerify" finished-at="2022-09-05T14:54:00Z" duration-ms="113946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestVerify -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:PortalDev.Portalken@10567255]" started-at="2022-09-05T14:54:00Z" name="quitDriver" finished-at="2022-09-05T14:54:04Z" duration-ms="3299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- PortalDev.Portalken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
